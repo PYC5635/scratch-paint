@@ -1,6 +1,5 @@
-# Bilup/scratch-paint
-
-Modified version of scratch-paint from MistWarp for use in Bilup.
+# PineWarp/scratch-paint 🍍
+Modified version of scratch-paint from MistWarp for use in PineWarp.
 Uses @turbowarp/paper as it includes some nice fixes.
 
 ## License
